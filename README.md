@@ -2,7 +2,7 @@
 
 I'm Hardik, an aspiring data analyst based in India.
 
-If something genuinely interests me, chances are I would pour my energy and time into it.
+If something genuinely interests me, chances are I'll pour my energy and time into it.
 
 My tech stack includes Excel, Python, MySQL and Power BI. I have few projects but my favourite is the **[League of Legends KR Challenger SoloQ Analysis](https://github.com/hardikrajgautam05/lol-soloq-python-sql-powerbi)**
 
